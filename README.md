@@ -60,3 +60,5 @@ see [Azure SQL answers](https://docs.microsoft.com/answers/topics/azure-sql-data
 https://github.com/MicrosoftDocs/azure-devops-docs/issues/6579
 
 add the t-sql/tech and sql/prod labels manually to the git issue, because the customer is referencing the T-SQL docs where we have turned off git issues
+
+https://microsoft.sharepoint.com/:x:/r/teams/APEX_Aquent/_layouts/15/guestaccess.aspx?e=jh8km6&share=EVta2pn9bYdLmtc1oGgIZo8BhXigOgjDhlNlgYxlNaDsmw
