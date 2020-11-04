@@ -12,7 +12,7 @@
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
 - [ ] send resumes to [Mike Rizzo](mrizzo@aquent.com) and/or [Tara Carr](tcarr@aquent.com) or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
 
-### [1556730](https://mseng.visualstudio.com/TechnicalContent/_workitems/edit/1556730), "repo watch deflection" per [visual studio](https://github.com/MicrosoftDocs/visualstudio-docs/issues), [vsts](https://github.com/MicrosoftDocs/vsts-docs/issues), [sql](https://github.com/MicrosoftDocs/sql-docs/issues)
+### "repo watch deflection" per [visual studio](https://github.com/MicrosoftDocs/visualstudio-docs/issues), [vsts](https://github.com/MicrosoftDocs/vsts-docs/issues), [sql](https://github.com/MicrosoftDocs/sql-docs/issues)
 
 - [triage process](https://review.docs.microsoft.com/en-us/help/onboard/github-issues-feedback-triage?branch=master)
 - next meeting 08.13
@@ -57,26 +57,19 @@ see [Azure SQL answers](https://docs.microsoft.com/answers/topics/azure-sql-data
 
 [Python dictionary](https://github.com/msebolt/msebolt.github.io/tree/master/samples/dictionary)
 
+## Notes
+
 https://github.com/MicrosoftDocs/azure-devops-docs/issues/6579
 
 add the t-sql/tech and sql/prod labels manually to the git issue, because the customer is referencing the T-SQL docs where we have turned off git issues
 
 https://microsoft.sharepoint.com/:x:/r/teams/APEX_Aquent/_layouts/15/guestaccess.aspx?e=jh8km6&share=EVta2pn9bYdLmtc1oGgIZo8BhXigOgjDhlNlgYxlNaDsmw
 
-https://mseng.visualstudio.com/TechnicalContent/_workitems/edit/1760863
+10 hours to 1760863, start Power BI
 
 fix unassigned issues search to include assigned but unlabeled issues 
 go back through for duplicates, support requests/product questions that can be deflected
 
-I think I got 1737442 (rebranding) on everyone’s timesheets. Let me know if it’s still missing on anyone’s.
-
-alt-text-bad-value – Checks that alternate text for images doesn’t equal the file name. This redundancy adds no value for Accessibility. PR only.
-description-missing – Checks that description metadata is present for site search and SEO. PR only.
-duplicate-alt-text – Checks that alternate text is unique for images within an article. Duplicate alt text is a problem for both Accessibility and SEO. PR only.
-duplicate-descriptions – Checks that description metadata is unique within the current docset for SEO. PR only.
-duplicate-headings – Checks that H2 headings are unique within an article. Duplicated H2s are an Accessibility issue. This validation will be turned on for all built content, not just content in PRs. 
-
-1 day before signing off
-Please add Message fixes: as a prefix to your PR titles.
+1 day before signing off, add Message fixes: as a prefix to your PR titles.
 
 https://aex.dev.azure.com/me?mkt=en-US, use only relative links
