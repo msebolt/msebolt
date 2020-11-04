@@ -78,3 +78,5 @@ duplicate-headings – Checks that H2 headings are unique within an article. Dup
 
 1 day before signing off
 Please add Message fixes: as a prefix to your PR titles.
+
+https://aex.dev.azure.com/me?mkt=en-US, use only relative links
