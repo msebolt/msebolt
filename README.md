@@ -73,3 +73,22 @@ go back through for duplicates, support requests/product questions that can be d
 1 day before signing off, add Message fixes: as a prefix to your PR titles.
 
 https://aex.dev.azure.com/me?mkt=en-US, use only relative links
+
+hello().then((value) => console.log(value))
+
+The code will now be:
+let value = await hello();
+console.log(value);
+
+visual.exportData(models.ExportDataType.Summarized, 100)
+  .then(function (data) {
+    Log.log(data);
+  })
+  .catch(function (errors) {
+    Log.log(errors);
+  });
+
+  catch?
+  
+ Triage, report...
+ https://msit.powerbi.com/groups/me/reports/e900166f-9db6-4b05-9b35-a6d691a085f9/ReportSectiond547b627096a45fd0983?openReportSource=ReportInvitation&ctid=72f988bf-86f1-41af-91ab-2d7cd011db47
