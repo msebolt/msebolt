@@ -1,4 +1,4 @@
-# [Microsoft](http://www.microsoft.com) [Docs](https://review.docs.microsoft.com/help/?branch=master) with [Aquent](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawMatLogin) "program writers"
+# [Microsoft](http://www.microsoft.com) [Docs](https://review.docs.microsoft.com/help/?branch=master) with [Aquent](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawMatLogin)
 
 [Outlook](https://outlook.office.com/mail/inbox) | [Azure](https://ms.portal.azure.com/#home) | [People](https://repos.opensource.microsoft.com/people?q=)
 
@@ -22,7 +22,7 @@
 
 - review [unassigned issues](https://github.com/MicrosoftDocs/azure-devops-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Acreated-asc)
 - scan for duplicate issues
-- [demo](https://aex.dev.azure.com/me?mkt=en-US)
+- [demo](https://aex.dev.azure.com/me?mkt=en-US) *pending Surface*
 
 ### sql
 
@@ -45,8 +45,4 @@ console.log(value);
 
 1 day before signing off, add Message fixes: as a prefix to your PR titles, use only relative links
 
-### Samples
-
-[GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
-
-[Python dictionary](https://github.com/msebolt/msebolt.github.io/tree/master/samples/dictionary)
+create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
