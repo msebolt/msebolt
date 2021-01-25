@@ -10,7 +10,7 @@
 |time off|use [form](https://docs.google.com/forms/d/e/1FAIpQLSc9AzC1gU1vnGiZYnYE40EAabMVR6AEc8Ell7yQYtTnBE9aPw/viewform)|
 
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
-- [ ] send resumes to [Mike Rizzo](mrizzo@aquent.com) and/or [Tara Carr](tcarr@aquent.com) or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
+- [ ] send resumes to admin or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
 
 ## triage "repo watch deflection" per [vsts](https://github.com/MicrosoftDocs/vsts-docs/issues), [visual studio](https://github.com/MicrosoftDocs/visualstudio-docs/issues), [sql](https://github.com/MicrosoftDocs/sql-docs/issues)
 
@@ -28,21 +28,21 @@
 
 add the t-sql/tech and sql/prod labels manually to the git issue, because the customer is referencing the T-SQL docs where we have turned off git issues
 
-## Power BI finalization
+## az commmunitcation Quickstart
 
-`hello().then((value) => console.log(value))`
+draft pending
 
-...changes to...
+## SCIM
 
-```
-let value = await hello();
-console.log(value);
-```
-
-`catch` is no longer needed
+pending review
 
 ## Additional notes
 
 1 day before signing off, add Message fixes: as a prefix to your PR titles, use only relative links
 
 create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
+
+Matthew Sebolt, Technical Writer
+AQUENT at Microsoft | Content + Learning
+Cloud + AI Developer Relations
+Aquent technical content authoring managed service
