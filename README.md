@@ -22,7 +22,6 @@
 
 - review [unassigned issues](https://github.com/MicrosoftDocs/azure-devops-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Acreated-asc)
 - scan for duplicate issues
-- [demo](https://aex.dev.azure.com/me?mkt=en-US) *pending Surface*
 
 ### sql
 
