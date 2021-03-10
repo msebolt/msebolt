@@ -12,11 +12,11 @@
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
 - [ ] send resumes to admin or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
 
-## az aad Example (1794704)
+## az aad Example ([1794704](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1794704))
 
 draft pending
 
-## Connect to Windows Virtual Desktop Windows 10 or 7 (1821829)
+## Connect to Windows Virtual Desktop Windows 10 or 7 ([1821829](https://mseng.visualstudio.com/TechnicalContent/_workitems/edit/1821829/))
 
 freshness review
 
