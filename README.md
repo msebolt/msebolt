@@ -12,36 +12,26 @@
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
 - [ ] send resumes to admin or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
 
-## triage "repo watch deflection" per [vsts](https://github.com/MicrosoftDocs/vsts-docs/issues), [visual studio](https://github.com/MicrosoftDocs/visualstudio-docs/issues), [sql](https://github.com/MicrosoftDocs/sql-docs/issues)
-
-- [triage process](https://review.docs.microsoft.com/en-us/help/onboard/github-issues-feedback-triage?branch=master)
-- [triage report](https://msit.powerbi.com/groups/me/reports/e900166f-9db6-4b05-9b35-a6d691a085f9/ReportSectiond547b627096a45fd0983?openReportSource=ReportInvitation&ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
-- next meeting 01.2021
-
-### devops
-
-- review [unassigned issues](https://github.com/MicrosoftDocs/azure-devops-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Acreated-asc)
-- scan for duplicate issues
-
-### sql
-
-add the t-sql/tech and sql/prod labels manually to the git issue, because the customer is referencing the T-SQL docs where we have turned off git issues
-
-## az commmunitcation Quickstart
+## az aad Example (1794704)
 
 draft pending
 
-## SCIM
+## Connect to Windows Virtual Desktop Windows 10 or 7 (1821829)
+
+freshness review
+
+## win32-pr Suggestions
 
 pending review
 
-## Additional notes
+## Administrative
 
-1 day before signing off, add Message fixes: as a prefix to your PR titles, use only relative links
+Surface replacement pending
 
 create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
 
-Matthew Sebolt, Technical Writer
-AQUENT at Microsoft | Content + Learning
+**Matthew Sebolt, Technical Writer**
+**AQUENT** at Microsoft **|** Content + Learning
 Cloud + AI Developer Relations
-Aquent technical content authoring managed service
+[Aquent technical content authoring managed service](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Freview.docs.microsoft.com%2Fen-us%2Fhelp%2Fcontribute%2Fvendor-team-authoring-engagement%3Fbranch%3Dmaster&data=02%7C01%7Cv-masebo%40microsoft.com%7C88251647e938437a86a208d71c47ceca%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637008967045334656&sdata=HLxIh8BtZC93qXtcpGusGLW0UKl1fJN5FIjeqXL4BDk%3D&reserved=0)
+*AQUENT and | are colored dark orange above*
