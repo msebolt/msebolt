@@ -11,24 +11,20 @@
 
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
 - [ ] send resumes to admin or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
+- [ ] use [device enrollment](https://portal.manage-beta.microsoft.com/devices)
+- [ ] use [OPS](https://ops.microsoft.com/#/)
 
-## az aad Example ([1794704](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1794704))
+*laptop removal pending*
 
-draft pending
+## az cli examples ([1794704](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1794704) for ad, [1820177](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1820177) for storage)
 
-## Connect to Windows Virtual Desktop Windows 10 or 7 ([1821829](https://mseng.visualstudio.com/TechnicalContent/_workitems/edit/1821829/))
+drafts pending
 
-freshness review
+## code copy cleanup ([1826842](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1826842))
 
-## win32-pr Suggestions
-
-pending review
+~200 docs in batches of 10
 
 ## Administrative
-
-Surface replacement pending
-
-use [OPS](https://ops.microsoft.com/#/)
 
 create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
 
