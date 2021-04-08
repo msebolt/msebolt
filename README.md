@@ -11,7 +11,7 @@
 
 - [ ] use [author distribution list](apexauth-int@microsoft.com)
 - [ ] send resumes to admin or [apply here](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawJobDesc&postingId=155866)
-- [ ] use [device enrollment](https://portal.manage-beta.microsoft.com/devices) or [phone renew](https://aka.ms/phoneauthRenew)
+- [ ] use [device enrollment](https://portal.manage-beta.microsoft.com/devices) or [phone renew](https://phoneregistration.microsoft.com/)
 - [ ] use [OPS](https://ops.microsoft.com/#/)
 
 *laptop removal pending*
