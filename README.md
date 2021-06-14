@@ -1,6 +1,6 @@
 # [Microsoft](http://www.microsoft.com) [Docs](https://review.docs.microsoft.com/help/?branch=master) with [Aquent](https://my.aquent.com/mat/myaquent?PROC=AWUIDrawMatLogin)
 
-[Outlook](https://outlook.office.com/mail/inbox) | [Azure](https://ms.portal.azure.com/#home) | [People](https://repos.opensource.microsoft.com/people?q=)
+[Azure](https://ms.portal.azure.com/#home) | [Outlook](https://outlook.office.com/mail/inbox) | [People](https://repos.opensource.microsoft.com/people?q=)
 
 |Schedule|Task|
 |-|-|
@@ -18,13 +18,7 @@
 
 ## az cli examples ([1794704](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1794704) for ad, [1820177](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1820177) for storage)
 
-drafts pending
-
 [dashboard](https://mseng.visualstudio.com/TechnicalContent/_dashboards/dashboard/9d36a362-bee5-4a54-9793-ec4e79e5680d)
-
-## code copy cleanup ([1826842](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1826842))
-
-~200 docs in batches of 10, use [document tracker](https://microsoft-my.sharepoint.com/:x:/r/personal/v-masebo_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B33BB0968-7BF2-4503-9651-5C72DDBA2489%7D&file=ListOfFilesToUpdate.xlsx&action=edit&mobileredirect=true&wdNewAndOpenCt=1616430649742&ct=1616430649742&wdPreviousSession=09b32a94-7b30-4723-a7f8-951abe65dae3&wdOrigin=OFFICECOM-WEB.START.UPLOAD&cid=093fe834-8f89-426e-8385-f15f8cefa502)
 
 ## Administrative
 
