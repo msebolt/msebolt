@@ -17,15 +17,14 @@
 ## az cli examples ([1794704](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1794704) for ad, [1820177](https://dev.azure.com/mseng/TechnicalContent/_workitems/edit/1820177) for storage)
 
 az 
-..account 
-..acr 
-..acs 
+..account
+..acr
+..acs
 ..alias 
 ..ams 
 ..apim 
 ..appservice 
 ..automation 
-..account 
 ..batch 
 ..batchai 
 ..billing 
@@ -60,19 +59,18 @@ az
 ..iot 
 ..keyvault 
 ..kusto 
-..lab custom-image create 
-az lab environment create 
-az managedservices assignment create 
-az maps 
+..lab
+..managedservices 
+..maps 
 ..mariadb 
 ..mesh 
-..ml endpoint realtime create-version 
-az monitor action-group create 
-az mysql server ad-admin create 
-az ..netappfiles 
+..ml
+..monitor
+..mysql 
+..netappfiles 
 ..network 
-..notification-hub namespace authorization-rule create 
-az offazure 
+..notification-hub
+..offazure 
 ..peering 
 ..pipelines 
 ..postgres 
@@ -85,7 +83,7 @@ az offazure
 ..sapmonitor 
 ..search 
 ..security
-az sentinel 
+..sentinel 
 ..servicebus 
 ..sf 
 ..sql 
@@ -97,116 +95,7 @@ az sentinel
 ..synapse 
 ..timeseriesinsights 
 ..vmware
-az webapp config ssl create
-
-Full reference list (974 references): (removing 'show', 'list', 'get', 'wait', 'delete', 'remove', 'cancel', 'update', 'browse', 'disable', and 'exists') 
-az account
-az acr check-name 
-az ad app credential reset 
-az advisor recommendation enable 
-az ai-did-you-mean-this 
-az ai-examples check-connection az aks app up az 
-aks kanalyze az aks kollect 
-az aks use-dev-spaces az alias create 
-az alias export az alias import 
-az ams.. apim.. api.. appconfig.. appservice.. hybrid-connection set-key 
-az attestation policy reset ..automation ..backup container re-register 
-az backup job stop 
-az baremetalinstance restart 
-az batch account autostorage-keys sync 
-az batchai cluster auto-scale 
-az billing subscription validate-move 
-az blockchain transaction-node regenerate-api-key 
-az blueprint assignment who 
-az bot authsetting create 
-az cdn custom-domain create 
-az cli-translator arm translate 
-az codespace create 
-az cognitiveservices account identity assign 
-az communication create 
-az config unset 
-az confluent organization create 
-az connectedk8s upgrade 
-az cosmosdb collection create 
-az csvmware vm create 
-az databoxedge bandwidth-schedule create 
-az databricks workspace vnet-peering create 
-az datafactory activity-run query-by-pipeline-run 
-az datashare dataset create 
-az demo style 
-az deployment export 
-az deploymentmanager rollout restart 
-az desktopvirtualization applicationgroup create 
-az devops invoke az devops logout 
-az dla account firewall create 
-az dls account enable-key-vault
-az dms check-name 
-az dt twin relationship create 
-az eventgrid domain private-endpoint-connection approve 
-az eventhubs cluster available-region 
-az footprint measurement-endpoint create 
-az functionapp app up 
-az fzf group 
-az group deployment export 
-az guestconfig guest-configuration-assignment create 
-az hack create 
-az hanainstance create 
-az hdinsight autoscale condition create 
-az healthcareapis acr reset 
-az image builder create 
-az iot central api-token create 
-az keyvault certificate contact add 
-az kusto attached-database-configuration create 
-az lab custom-image create 
-az local-context on 
-az managedservices assignment create 
-az maps account create 
-az mariadb db create 
-az mesh volume create 
-az ml dataset archive 
-az monitor action-group create 
-az mysql flexible-server restart 
-az netappfiles account ad add 
-az network application-gateway auth-cert create 
-az notification-hub authorization-rule regenerate-keys 
-az offazure hyperv site create 
-az openshift monitor enable 
-az peering asn create 
-az pipelines build queue 
-az policy assignment identity assign 
-az portal dashboard import 
-az postgres flexible-server restart 
-az provider unregister 
-az providerhub custom-rollout create 
-az quantum execute 
-az redis firewall-rules create 
-az relay hyco authorization-rule create 
-az repos policy approver-count create 
-az reservations reservation merge 
-az resource lock create
-az sapmonitor provider-instance create 
-az search admin-key renew
-az security assessment-metadata create 
-az self-test 
-az sentinel data-connector create 
-az servicebus georecovery-alias break-pair
-az sf application certificate add 
-az signalr cors add 
-az spring-cloud app binding cosmos add 
-az sql
-az ssh vm 
-az stack-hci cluster create 
-az staticwebapp appsettings set 
-az storage account blob-inventory-policy create 
-az stream-analytics function create 
-az support tickets communications create 
-az synapse activity-run query-by-pipeline-run 
-az tag add-value 
-az timeseriesinsights access-policy create 
-az ts export 
-az vm aem verify 
-az vmss diagnostics set 
-az vmware authorization create 
+..webapp
 
 ## Administrative
 
