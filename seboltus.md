@@ -7,6 +7,10 @@
   - personal tactician with ai editor?
   - strack studios
 
+Richard Matt
+May 18, 2017 Lake Erie Plane Crash
+Mackinac "Drowning Pool"
+
 ## Contact information
 
 Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?*
