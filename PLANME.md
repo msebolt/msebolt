@@ -4134,3 +4134,46 @@ zworykin.us
 Forwards to 72.14.183.93
 ￼
 
+Roland 776 manifest 1776?
+
+news statue
+
+@media print { .breaker{break-after:always;} }
+
+[site check](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmattdown.com%2F)
+
+|Expense|Receipt|
+|-|-|
+|server (5/2021)|mail attachment?|
+
+[property](https://www.craigslist.com)
+
+Vapor barrier, insulation
+https://www.homedepot.com/p/Sika-50-lbs-Self-Leveling-Underlayment-517004/207086698
+
+Bathroom remodel
+
+http://www.keyfobprogram.com/2020-buick-enclave-remote-programming/
+
+Driveway seal, Gravel/ concrete crawl space studio
+
+Bamboo Toilet paper
+
+8/9, 11:10am
+
+For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random) *virtual news feed... enter name?*
+
+keys (house, car, etc.)
+
+dependencies? https://materializecss.com/select.html
+https://fonts.google.com/icons?icon.query=user
+
+https://developer.authorize.net/hello_world.html
+
+"person=man/tribe/monster/animal"
+"place=land/town/exterior/interior"
+"thing=car/plane/ship/alien/abstract/plant"
+...
+"element=red(fire),orange(rock),yellow(city),green(forest),blue(water),purple(air/mountain),black(future),white(past)"
+
+custom= tribes, french-indian war, international, state
