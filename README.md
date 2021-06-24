@@ -24,3 +24,6 @@ create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tre
 Cloud + AI Developer Relations<br/>
 [Aquent technical content authoring managed service](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Freview.docs.microsoft.com%2Fen-us%2Fhelp%2Fcontribute%2Fvendor-team-authoring-engagement%3Fbranch%3Dmaster&data=02%7C01%7Cv-masebo%40microsoft.com%7C88251647e938437a86a208d71c47ceca%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637008967045334656&sdata=HLxIh8BtZC93qXtcpGusGLW0UKl1fJN5FIjeqXL4BDk%3D&reserved=0)<br/><br/>
 *AQUENT and | are colored dark orange above*
+
+- [GitHub star](https://github.com/bitmaus) with Erwin McDaniel, msresource@aquent.com
+- [RegExp online](https://regexr.com/)
