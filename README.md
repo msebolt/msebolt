@@ -1,5 +1,5 @@
 
-[resume](https://www.linkedin.com/in/msebolt/) | [channel](https://www.youtube.com/channel/UCn0RBSl4jMARPAhIHELZIAQ) | [portfolio](https://github.com/mekanistic)
+[resume](https://www.linkedin.com/in/msebolt/) | [channel](https://www.youtube.com/channel/UCn0RBSl4jMARPAhIHELZIAQ) | [portfolio](https://github.com/msebolt/msebolt/blob/master/PLANME.md)
 
 # [Microsoft](http://www.microsoft.com) [Docs](https://review.docs.microsoft.com/help)
 
