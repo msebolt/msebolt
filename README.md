@@ -44,10 +44,7 @@ bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloe
 - [RegExp online](https://regexr.com/)
 - [icons](https://material.io/resources/icons/?style=baseline)
 
-
-
-
-Configure domains using **Google** [domain](https://domains.google.com), **Dynu** [email](https://www.dynu.com), a(https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? 
+Configure domains using **Google** [domain](https://domains.google.com), *name.com? 
 
 Setup router with the following ports:
 
@@ -119,15 +116,15 @@ https://developer.authorize.net/hello_world.html
 
 custom= tribes, french-indian war, international, state
 
-## Administrative
-
-create report with [GitHub API](https://github.com/msebolt/msebolt.github.io/tree/master/samples/github)
-
 **Matthew Sebolt, Technical Writer**<br/>
 **AQUENT** at Microsoft **|** Content + Learning<br/>
 Cloud + AI Developer Relations<br/>
 [Aquent technical content authoring managed service](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Freview.docs.microsoft.com%2Fen-us%2Fhelp%2Fcontribute%2Fvendor-team-authoring-engagement%3Fbranch%3Dmaster&data=02%7C01%7Cv-masebo%40microsoft.com%7C88251647e938437a86a208d71c47ceca%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637008967045334656&sdata=HLxIh8BtZC93qXtcpGusGLW0UKl1fJN5FIjeqXL4BDk%3D&reserved=0)<br/><br/>
 *AQUENT and | are colored dark orange above*
 
-- [GitHub star](https://github.com/bitmaus) with Erwin McDaniel, msresource@aquent.com
+- [GitHub star](https://github.com/bitmaus) with Erwin McDaniel
 - [RegExp online](https://regexr.com/)
+
+family bios... with pic?  seperate repo?
+
+probably not good idea, where to put personals?
