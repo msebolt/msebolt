@@ -1,21 +1,18 @@
 
-[resume](https://www.linkedin.com/in/msebolt/) | [portfolio](https://github.com/msebolt/msebolt/blob/master/PLANME.md) | [channel](https://www.youtube.com/channel/UCn0RBSl4jMARPAhIHELZIAQ)
-
-[🔩🔩](xn--8v8ha.ws)
-
-
-
-## Contact information
+[🔩🔩](xn--8v8ha.ws) [resume](https://www.linkedin.com/in/msebolt/) | [portfolio](https://github.com/msebolt/msebolt/blob/master/PLANME.md) | [channel](https://www.youtube.com/channel/UCn0RBSl4jMARPAhIHELZIAQ)
 
 Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?*
 
-For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
+- [corp](https://ccfs.sos.wa.gov/#/Dashboard)
+- [license](https://secure.dor.wa.gov/)
+- [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735)
+- [patent/trademark](https://www.uspto.gov/)
+- [publication](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
+- [device](https://www.alibaba.com)
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
 
 ## domain listings
-
-*all domains listed below for sale, contact **matt@sebolt.us** for more information*  **see current (full) list at bottom of the page**
 
 ### United States Land Grab of .us domains
 
@@ -47,16 +44,10 @@ bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloe
 - [RegExp online](https://regexr.com/)
 - [icons](https://material.io/resources/icons/?style=baseline)
 
-# strack
-product, power tray/stick, color/size, in sealed box/bag, add slide tray, grid, power stick, stackable
 
-order (seals, box/bag with logo, sticker, collector's business cards, toy) (version/OR/etc.) to ship...
 
-https://www.usps.com/business/web-tools-apis/documentation-updates.htm
 
-https://www.alibaba.com
-
-Configure domains using **Google** [domain](https://domains.google.com), **Dynu** [email](https://www.dynu.com), and **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? 
+Configure domains using **Google** [domain](https://domains.google.com), **Dynu** [email](https://www.dynu.com), a(https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? 
 
 Setup router with the following ports:
 
@@ -83,8 +74,6 @@ grep -R "term" #search
 ip addr show #show network connections
 ping google.com -c 2 #test network
 ```
-
-Latest domains...
 
 Roland 776 manifest 1776?
 
