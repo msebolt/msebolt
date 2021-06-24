@@ -65,48 +65,6 @@ Capacitor (super)
 
 neoprene suit, 
 
-## README
-
-**Version 1.04**
-
-[download script](https://dralun.com/dralun/bitos/build.sh)
-
-*Requires BIOS access to boot from USB, use ESC, DEL, and/or a particular Function key on boot.*
-
-How to build strack (with servOS)
-
-1. Build a hardware box...
-
-1. Download [Arch Linux](https://www.archlinux.org/download) and use `dd` to image an USB.
-```
-wget...
-dd if=arch_linux.iso of=/dev/sda status=progress
-```
-
-1. Boot from USB, then run the build script. Reboot.
-```
-#iwctl --passphrase passphrase station device connect SSID #optional, wireless
-pacman -Sy --noconfirm wget nano
-wget https://ur.land/serv/build.sh
-chmod +x build.sh #set options...
-./build.sh
-```
-   
-1. Use SSH *optional*, get IP with `ip addr`, then set router and forward ports to:
-|Port|Function|
-|-|-|
-|80|http|
-|443|https|
-|2525|mail|
-|587|tls|
-
-1. Run site, use backup/restore *optional*:
-```
-./build.sh site #adjust processors, use 'lscpu'
-```
-
-## PLANME
-
 double bios logo... device distribution with ar, eSim
 
 https://gist.github.com/heyalexej/cc6c97b1ea42736b3ff7
@@ -136,11 +94,6 @@ Stryker font, dad's artitect...
 
 escrow? (add drawing/signature), 
 
-> [corp](https://ccfs.sos.wa.gov/#/Dashboard) attachment?
-> [license](https://secure.dor.wa.gov/)
-> [copyright](https://eco.copyright.gov)
-> [patent/trademark](https://www.uspto.gov/) 
-
 [Linode](https://cloud.linode.com/linodes), [site check](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmattdown.com%2F)
 
 |Expense|Receipt|
@@ -148,44 +101,9 @@ escrow? (add drawing/signature),
 |server (5/2021)|mail attachment?|
 
 (portfolio)
-- Google? [domain](https://domains.google.com) [email](https://www.dynu.com) [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?* 
+- Google? [domain](https://domains.google.com) *name.com?
 - [Chase](https://www.chase.com)
 - [Alibaba]()
 - ShutterStock, search for susanitah...
 
-slide deck! [property](https://www.craigslist.com), treeop business account?
-
-## How to install servius
-
-Configure domains using **Google** [domain](https://domains.google.com), **Dynu** [email](https://www.dynu.com), and **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?*
-
-Setup router with the following ports:
-
-|Port|Function|
-|-|-|
-|80|http|
-|443|https|
-|2525|mail|
-|587|tls|
-
-Install certs using: (also configure haproxy)
-```
-certbot certonly --standalone -d ${site}, cp -r /etc/letsencrypt/live/${site} data/${site}
-sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
-```
-
-Build a strack unit, attach an M.2 drive (enclosure) and run `servius/servos/install.sh old`. Deploy unit.
-
-Go to site and setup user/password. Repeat build strack units for each additional and use add IP function.
-
-### Additional commands
-
-```
-fdisk -l #show drives
-df, ls -a, du -xhS | sort -h | tail -n15 #show file/folder info
-lscpu #show hardware info
-grep -R "term" #search
-
-ip addr show #show network connections
-ping google.com -c 2 #test network
-```
+[property](https://www.craigslist.com)
