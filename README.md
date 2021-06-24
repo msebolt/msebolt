@@ -1,4 +1,6 @@
 
+## Matthew Sebolt, Technical Editor (matt@sebolt.us)
+
 [🔩🔩](xn--8v8ha.ws) [resume](https://www.linkedin.com/in/msebolt/) | [portfolio](https://github.com/msebolt/msebolt/blob/master/PLANME.md) | [channel](https://www.youtube.com/channel/UCn0RBSl4jMARPAhIHELZIAQ)
 
 Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Bothell](http://www.ci.bothell.wa.us) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?*
