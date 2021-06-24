@@ -3,9 +3,7 @@
 
 [🔩🔩](xn--8v8ha.ws)
 
-Richard Matt
-May 18, 2017 Lake Erie Plane Crash
-Mackinac "Drowning Pool"
+
 
 ## Contact information
 
