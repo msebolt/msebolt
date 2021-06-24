@@ -9,6 +9,7 @@ Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare
 - [patent/trademark](https://www.uspto.gov/)
 - [publication](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
 - [device](https://www.alibaba.com)
+- [icon](https://material.io/resources/icons/?style=baseline) and [domain](https://domains.google.com) and [font](https://fonts.google.com/icons?icon.query=user), *name.com?
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
 
@@ -34,39 +35,15 @@ angelou.us - hurston.us - pynchon.us - salinger.us
 
 🙂🙂.ws - 🧦🧦.ws - 🧤🧤.ws - 👣👣.ws - [🌳🌳](xn--wh8ha.ws) with treeop.com - 👖👖.ws - 👓👓.ws - [⛓⛓](xn--l9ha.ws) with boxcha.in - [📮📮](xn--ku8ha.ws) with boxb.in - *gears?* - 🏳🏳 🏴🏴 🏳🏴 🏴🏳
 
-### Other
-
-bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloeg.in - statemap.us - tipt.in - victoryg.in - blockb.in - boltb.in - boxt.in - breadb.in - copco.in and cupco.in - tactician.us - mant.us
-
 ## Reference
 
 - [GitHub star](https://github.com/bitmaus)
 - [RegExp online](https://regexr.com/)
-- [icons](https://material.io/resources/icons/?style=baseline)
-
-Configure domains using **Google** [domain](https://domains.google.com), *name.com? 
-
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random) *virtual news feed... enter name?*
-
-keys (house, car, etc.)
-
-dependencies? https://materializecss.com/select.html
-https://fonts.google.com/icons?icon.query=user
-
-"person=man/tribe/monster/animal"
-"place=land/town/exterior/interior"
-"thing=car/plane/ship/alien/abstract/plant"
-...
-"element=red(fire),orange(rock),yellow(city),green(forest),blue(water),purple(air/mountain),black(future),white(past)"
-
-custom= tribes, french-indian war, international, state
 
 **Matthew Sebolt, Technical Writer**<br/>
 **AQUENT** at Microsoft **|** Content + Learning<br/>
 Cloud + AI Developer Relations<br/>
 [Aquent technical content authoring managed service](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Freview.docs.microsoft.com%2Fen-us%2Fhelp%2Fcontribute%2Fvendor-team-authoring-engagement%3Fbranch%3Dmaster&data=02%7C01%7Cv-masebo%40microsoft.com%7C88251647e938437a86a208d71c47ceca%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637008967045334656&sdata=HLxIh8BtZC93qXtcpGusGLW0UKl1fJN5FIjeqXL4BDk%3D&reserved=0)<br/><br/>
 *AQUENT and | are colored dark orange above*
-
-- [GitHub star](https://github.com/bitmaus)
-- [RegExp online](https://regexr.com/)
