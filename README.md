@@ -46,58 +46,6 @@ bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloe
 
 Configure domains using **Google** [domain](https://domains.google.com), *name.com? 
 
-Setup router with the following ports:
-
-|Port|Function|
-|-|-|
-|80|http|
-|443|https|
-|2525|mail|
-|587|tls|
-
-```
-certbot certonly --standalone -d ${site}, cp -r /etc/letsencrypt/live/${site} data/${site}
-sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
-```
-
-### Additional commands
-
-```
-fdisk -l #show drives
-df, ls -a, du -xhS | sort -h | tail -n15 #show file/folder info
-lscpu #show hardware info
-grep -R "term" #search
-
-ip addr show #show network connections
-ping google.com -c 2 #test network
-```
-
-Roland 776 manifest 1776?
-
-news statue
-
-@media print { .breaker{break-after:always;} }
-
-[site check](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmattdown.com%2F)
-
-|Expense|Receipt|
-|-|-|
-|server (5/2021)|mail attachment?|
-
-[property](https://www.craigslist.com)
-
-Vapor barrier, insulation
-https://www.homedepot.com/p/Sika-50-lbs-Self-Leveling-Underlayment-517004/207086698
-
-Bathroom remodel
-
-http://www.keyfobprogram.com/2020-buick-enclave-remote-programming/
-
-Driveway seal, Gravel/ concrete crawl space studio
-
-Bamboo Toilet paper
-
-8/9, 11:10am
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random) *virtual news feed... enter name?*
 
@@ -105,8 +53,6 @@ keys (house, car, etc.)
 
 dependencies? https://materializecss.com/select.html
 https://fonts.google.com/icons?icon.query=user
-
-https://developer.authorize.net/hello_world.html
 
 "person=man/tribe/monster/animal"
 "place=land/town/exterior/interior"
@@ -122,9 +68,5 @@ Cloud + AI Developer Relations<br/>
 [Aquent technical content authoring managed service](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Freview.docs.microsoft.com%2Fen-us%2Fhelp%2Fcontribute%2Fvendor-team-authoring-engagement%3Fbranch%3Dmaster&data=02%7C01%7Cv-masebo%40microsoft.com%7C88251647e938437a86a208d71c47ceca%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637008967045334656&sdata=HLxIh8BtZC93qXtcpGusGLW0UKl1fJN5FIjeqXL4BDk%3D&reserved=0)<br/><br/>
 *AQUENT and | are colored dark orange above*
 
-- [GitHub star](https://github.com/bitmaus) with Erwin McDaniel
+- [GitHub star](https://github.com/bitmaus)
 - [RegExp online](https://regexr.com/)
-
-family bios... with pic?  seperate repo?
-
-probably not good idea, where to put personals?
