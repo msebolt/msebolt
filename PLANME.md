@@ -252,3 +252,22 @@ Stryker font, dad's artitect...
 (multi-lingual catch phrase, braille) translation?
 
 escrow? (add drawing/signature), 
+
+> [corp](https://ccfs.sos.wa.gov/#/Dashboard) attachment?
+> [license](https://secure.dor.wa.gov/)
+> [copyright](https://eco.copyright.gov)
+> [patent/trademark](https://www.uspto.gov/) 
+
+[Linode](https://cloud.linode.com/linodes), [site check](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmattdown.com%2F)
+
+|Expense|Receipt|
+|-|-|
+|server (5/2021)|mail attachment?|
+
+(portfolio)
+- Google? [domain](https://domains.google.com) [email](https://www.dynu.com) [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?* 
+- [Chase](https://www.chase.com)
+- [Alibaba]()
+- ShutterStock, search for susanitah...
+
+slide deck! [property](https://www.craigslist.com), treeop business account?
